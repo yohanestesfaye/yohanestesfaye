@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Yohanes Tesfaye 👋
 
-<!--
-**yohanestesfaye/yohanestesfaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate | Full-Stack Developer
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Computer Science Graduate
+- 💻 Interested in Web Development and Software Engineering
+- 🌱 Currently learning modern web technologies
+- 🚀 Building practical software solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Hospital Management System
+A complete hospital management system with multiple actors:
+- Doctor
+- Nurse
+- Pharmacist
+- Laboratory Staff
+- System Administrator
+
+Tech Stack: PHP, MySQL, JavaScript, HTML, CSS
+
+### Online Supermarket System
+E-commerce platform for managing products, orders, and customers.
+
+## Skills
+- PHP
+- JavaScript
+- Java
+- MySQL
+- HTML & CSS
+- Git & GitHub
+
+## Contact
+- LinkedIn: Add your LinkedIn profile
+- Telegram: https://t.me/Jozwinner
+- Email: yohannestespro@gmail.com
+
+---
+⭐ Feel free to explore my repositories.
